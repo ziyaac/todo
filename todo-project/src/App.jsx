@@ -81,7 +81,7 @@ function TodoList() {
       <div className="footer">
         <span
   style={{
-    color: tasksLeft === 0 ? "#000000ff" : "#333", // red if 0, dark grey otherwise
+    color: tasksLeft === 0 ? "#000000ff" : "#333",
     fontWeight: "bold",
   }}
 >
